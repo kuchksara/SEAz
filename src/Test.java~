@@ -14,11 +14,11 @@ class Test
         int result = bm.div(a, b);
         if (result == expected)
         {
-            System.out.println("div: OK");
+            System.out.println("Div: OK");
         }
         else
         {
-            System.out.println("div: Failed, expected = " + expected + ", result = " + result);
+            System.out.println("Div: Failed, expected = " + expected + ", result = " + result);
         }
     }
 }
