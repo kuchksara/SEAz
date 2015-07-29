@@ -1,1 +1,1 @@
-Initial Source Code for Software Engineering Az
+the test.java test mul function in basicMath class if it's ok print ok and else print faild and the result and expected result.
